@@ -17,7 +17,7 @@
         </div>
         <div class="row mb-3">
             <div class="col">
-                <input type="text" name="product_code" class="form-control" placeholder="Product Code">
+                <input type="text" name="product_code" class="form-control" placeholder="Mililiter">
             </div>
             <div class="col">
                 <textarea class="form-control" name="description" placeholder="Descriptoin"></textarea>
@@ -28,6 +28,7 @@
             <div class="d-grid">
                 <button type="submit" class="btn btn-primary">Submit</button>
             </div>
+            <a href="{{ route('products') }}" class="btn btn-success mx-1">Kembali</a>
         </div>
     </form>
 @endsection
