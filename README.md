@@ -1,3 +1,13 @@
+UTS LARAVEL CRUD 
+Ragil Agung Pamungkas 22.01.4919
+Thofa Hesa Alfauzi 22.01.4942
+
+Cara Pemasangan
+1. Download File
+2. Buka Visual Studio Code
+3. Buka Terminal Ketik "composer install"
+4. Kemudian jalankan server "php artisan serve"
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
